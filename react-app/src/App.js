@@ -5,6 +5,7 @@ import WelcomeModal from "./pages/WelcomeModal";
 import Home from "./pages/Home";
 import AddEdit from "./pages/AddEdit";
 import ViewUser from "./pages/ViewUser";
+import "./css/mediaqueries.css";
 
 function App() {
   return (
